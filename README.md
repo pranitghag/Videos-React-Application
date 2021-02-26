@@ -1,3 +1,6 @@
+Videos is a React Application that has a search bar and an embedded video player. The video player plays videos that are related to the search item entered in the 
+search bar. Related videos are shown on the right of the video player to choose from. This applcation uses Youtube's api to fetc videos related to the search term.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
